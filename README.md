@@ -1,11 +1,11 @@
-##Requirements
+## Requirements
 PHP 5.6.4 or higher
 Web Server (eg: Apache, Nginx, IIS)
 
-##Framework
+## Framework
 Uses Laravel, the best existing PHP framework, as the foundation framework and Modules package for web Apps.
 
-##Installation
+## Installation
 - Install Composer
 - Download the repository and unzip into your server
 - Open and point your command line to the directory you unzipped Laravel Pusher Chat
